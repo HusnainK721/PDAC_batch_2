@@ -4,4 +4,4 @@ const fencingwirelength =parameterofshape * numberoflayer
 const costofwire= fencingwirelength* rateofwire;
 return costofwire  
 }
-console.log(fencingRect(7,4,12))
+console.log(fencingRect(17,4,12))

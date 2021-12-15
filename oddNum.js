@@ -1,3 +1,3 @@
-const num = 3445659277;
+const num = 9;
 
-num % 2 !== 0 && console.log("Yes, this is a Odd Number");
+num % 2 !== 0 && console.log("Yes, this is a Odd Number")

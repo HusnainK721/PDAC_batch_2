@@ -6,4 +6,4 @@ const biggerNum=(num1,num2)=>{
         return num2
     }
 }
-console.log(biggerNum(5.5,7.7))
+console.log(biggerNum(5.6,7.7))

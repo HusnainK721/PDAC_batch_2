@@ -3,4 +3,4 @@ function fullname(fname, lname) {
 }
 
 // const fullName = fullname("Farhaan", "Akhtar");
-console.log(fullname("Farhaan", "Akhtar"));
+// console.log(fullname("Farhaan", "Akhtar"));
